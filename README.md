@@ -18,7 +18,7 @@ https://super-archives.herokuapp.com/api/autosearch/dark
 
 `Response`
 
-`[
+[
     {
         "_id": "5f3569ca41f4833a70b31e2d",
         "title": "<a href='https://www.metal-archives.com/bands/Rotten_Dark/5042'>Rotten Dark</a>"
@@ -59,4 +59,4 @@ https://super-archives.herokuapp.com/api/autosearch/dark
         "_id": "5f3569ca41f4833a70b325fc",
         "title": "<a href='https://www.metal-archives.com/bands/Clad_in_Darkness/16077'>Clad in Darkness</a>"
     }
-]`
+]
