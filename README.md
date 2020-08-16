@@ -6,3 +6,6 @@ Autocomplete search bar that get bands from an api that I have made and link the
 
 # Check it live!
 https://metal-search.herokuapp.com
+
+# Use the API for free!
+https://super-archives.herokuapp.com/api/autosearch/{band_name}
